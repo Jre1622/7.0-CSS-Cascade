@@ -6,7 +6,16 @@
 }
 
 p {
-	color: yellow;
+	color: rgb(21, 223, 48);
 	margin: 0;
 	padding: 0;
+}
+
+.box.inner-box {
+	background-color: red;
+	color: white;
+}
+
+.box.inner-box p {
+	color: white;
 }
