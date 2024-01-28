@@ -19,3 +19,7 @@ p {
 .box.inner-box p {
 	color: white;
 }
+
+.box {
+	background-color: rgb(157, 30, 157);
+}
