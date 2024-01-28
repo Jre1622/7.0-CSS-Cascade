@@ -1,7 +1,7 @@
 /* Don't change the existing CSS. */
 
 .box {
-	background-color: blue;
+	background-color: rgb(151, 95, 151);
 	padding: 10px;
 }
 
@@ -20,6 +20,6 @@ p {
 	color: white;
 }
 
-.box {
-	background-color: rgb(157, 30, 157);
+#outer-box {
+	background-color: purple;
 }
